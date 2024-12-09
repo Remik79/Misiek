@@ -33,6 +33,5 @@
 </body>
 </html>
 
-<a <div class="link-container">
   <a href="index.html" class="hidden-link">Pamiętaj, że cię kocham</a>
 </div>
