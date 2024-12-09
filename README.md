@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Gra w Kółko-krzyżyk</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -38,10 +37,3 @@
 <a <div class="link-container">
   <a href="index.html" class="hidden-link">Pamiętaj, że cię kocham</a>
 </div>
-
-<style>
-  .hidden-link {
-    position: absolute; /* Link znajduje się poza widocznością */
-    top: -9999px;
-  }
-</style>
